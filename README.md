@@ -5,19 +5,19 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:nandhayogesh.ks@gmail.com)
 [![Mobile](https://img.shields.io/badge/Mobile-+91%206374419958-green?style=flat&logo=phone)](tel:+916374419958)
 
-> 📄 **[Download Resume PDF](https://drive.google.com/file/d/1X5XOFvqewD-UbXMsraAT-as3cjFkRokq/view?usp=drive_link)**
+> **[Download Resume PDF](https://drive.google.com/file/d/1X5XOFvqewD-UbXMsraAT-as3cjFkRokq/view?usp=drive_link)**
 
 ---
 
-## 🎓 EDUCATION
+## EDUCATION
 
 **Mahendra College of Engineering** | Salem, Tamil Nadu  
 **Bachelor of Engineering in Computer Science**  
-📅 September 2022 - May 2026 | 🎯 CGPA: **8.6**
+September 2022 - May 2026 | CGPA: **8.6**
 
 ---
 
-## 💻 SKILLS SUMMARY
+## SKILLS SUMMARY
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -40,21 +40,21 @@
 `NLP` • `OCR` • `Computer Vision` • `RAG` • `LLM`
 
 ### Soft Skills
-✨ Complex Problem Solving • 🚀 Technical Innovation • ⚡ Rapid Technology Adoption • 💬 Excellent Communication
+Complex Problem Solving • Technical Innovation • Rapid Technology Adoption • Excellent Communication
 
 ---
 
-## 💼 WORK EXPERIENCE
+## WORK EXPERIENCE
 
-### 🌐 Web Developer Intern | **Infosys Springboard**
-📅 November 2024 - January 2025 | [🔗 View Certificate](https://www.infosysspringboard.com)
+### Web Developer Intern | **Infosys Springboard**
+November 2024 - January 2025 | [View Certificate](https://www.infosysspringboard.com)
 
 - Led UI design initiatives for team-based web application project, creating intuitive and responsive user interfaces that improved user experience
 - Successfully integrated multiple APIs, ensuring seamless data flow and real-time functionality across the full-stack web application
 - Collaborated effectively with development team to deliver a production-ready web application, demonstrating strong teamwork and communication skills
 
-### ☁️ AI/Cloud Intern | **IBM SkillsBuild**
-📅 July 2025 - August 2025 | [🔗 View Certificate](https://skillsbuild.org)
+### AI/Cloud Intern | **IBM SkillsBuild**
+July 2025 - August 2025 | [View Certificate](https://skillsbuild.org)
 
 - Gained practical experience and leveraged IBM Cloud Platform in key areas of Artificial Intelligence and Cloud computing
 - Developed an end-to-end Retrieval-Augmented Generation (RAG) model to automate and streamline the college admission process, leveraging IBM Cloud services and AI/ML techniques
@@ -62,10 +62,10 @@
 
 ---
 
-## 🚀 PROJECTS
+## PROJECTS
 
-### 💳 Check Analysis System
-📅 January 2025 - February 2025 | [🔗 View Project](https://github.com/nandhayogesh/check-analysis)
+### Check Analysis System
+January 2025 - February 2025 | [View Project](https://github.com/nandhayogesh/check-analysis)
 
 - Developed financial data extraction processing account numbers, routing details, IFSC/MICR codes, and transaction validation with automated banking integration
 - Built React 18 SPA with JavaScript ES6+, Tailwind CSS, featuring lazy loading, code splitting, and PWA capabilities achieving sub-2 second load times
@@ -75,8 +75,8 @@
 
 ---
 
-### 📝 Resume Analysis Tool
-📅 May 2025 - June 2025 | [🔗 View Project](https://github.com/nandhayogesh/resume-analysis)
+### Resume Analysis Tool
+May 2025 - June 2025 | [View Project](https://github.com/nandhayogesh/resume-analysis)
 
 - Built scalable web application using React 18 and Vite with TextRazor NLP API integration for intelligent resume analysis and keyword optimization
 - Built semantic matching algorithms using TextRazor's entity extraction to align resume content with job descriptions
@@ -86,8 +86,8 @@
 
 ---
 
-### 🍽️ Meal Planning Application
-📅 July 2025 - August 2025 | [🔗 View Project](https://github.com/nandhayogesh/meal-planner)
+### Meal Planning Application
+July 2025 - August 2025 | [View Project](https://github.com/nandhayogesh/meal-planner)
 
 - Architected the application using React, TypeScript, Vite, and Tailwind CSS, ensuring a modern, scalable, and visually appealing user interface that provides seamless interaction across devices and browsers
 - Integrated advanced AI models for dynamic recipe recommendation, real-time ingredient management, and dietary restriction filtering, significantly enhancing application usability and user satisfaction
@@ -97,10 +97,10 @@
 
 ---
 
-## 🏆 CERTIFICATES
+## CERTIFICATES
 
-### 🎨 Introduction to Front-End Development | **Meta**
-[🔗 View Certificate](https://www.coursera.org/account/accomplishments/verify/)
+### Introduction to Front-End Development | **Meta**
+[View Certificate](https://www.coursera.org/account/accomplishments/verify/)
 
 - **UI Frameworks Mastery:** Developed skills in using modern UI frameworks like Bootstrap and React, enhancing the ability to create interactive and user-friendly web applications
 - **Hands-On Project Experience:** Completed a final project that involved creating and editing a responsive webpage using HTML and Bootstrap, demonstrating practical application of learned skills
@@ -108,30 +108,19 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhayogesh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhayogesh&layout=compact&theme=radical)
-
----
-
-## 📫 Get In Touch
+## GET IN TOUCH
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-- 📧 Email: [nandhayogesh.ks@gmail.com](mailto:nandhayogesh.ks@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/nandhayogesh](https://linkedin.com/in/nandhayogesh)
-- 🐙 GitHub: [github.com/nandhayogesh](https://github.com/nandhayogesh)
-- 📱 Mobile: [+91 6374419958](tel:+916374419958)
+- Email: [nandhayogesh.ks@gmail.com](mailto:nandhayogesh.ks@gmail.com)
+- LinkedIn: [linkedin.com/in/nandhayogesh](https://linkedin.com/in/nandhayogesh)
+- GitHub: [github.com/nandhayogesh](https://github.com/nandhayogesh)
+- Mobile: [+91 6374419958](tel:+916374419958)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nandhayogesh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>⭐ Star my repositories if you find them interesting!</i>
+  <i>Star my repositories if you find them interesting!</i>
 </div>
 
 ---
