@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:nandhayogesh.ks@gmail.com)
 [![Mobile](https://img.shields.io/badge/Mobile-+91%206374419958-green?style=flat&logo=phone)](tel:+916374419958)
 
-> 📄 **[Download Resume PDF](./RESUME.pdf)**
+> 📄 **[Download Resume PDF](https://drive.google.com/file/d/1X5XOFvqewD-UbXMsraAT-as3cjFkRokq/view?usp=drive_link)**
 
 ---
 
